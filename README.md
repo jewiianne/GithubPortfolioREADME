@@ -11,11 +11,11 @@ Aspiring Game Programmer and Game Artist with hands-on experience in Unity.
 ## Projects
 
 ### Project 1: Gem Odyssey
-Description: 2D Platformer Game
-Engine: Unity
-Language: C#
-Art Software: Aseprite
-Itchio: https://jewii.itch.io/gem-odyssey-final
+Description: 2D Platformer Game |
+Engine: Unity |
+Language: C# | 
+Art Software: Aseprite | 
+Itchio: https://jewii.itch.io/gem-odyssey-final | 
 Github: https://github.com/jewiianne/GPROG1-GemOdyssey-BuildFile
 
 ### Project 2: Lucky Cat
